@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flower Shop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="pic/logo.png" alt="Flower Shop Logo">
+    <nav>
+      <ul>
+        <li><a href="home">HOME</a></li>
+        <li><a href="flowers">Flowers</a></li>
+        <li><a href="arrangements">Arrangements</a></li>
+        <li><a href="gifts">Gifts</a></li>
+        <li><a href="occasions">Occasions</a></li>
+        <li><a href="weddings">Weddings</a></li>
+        <li><a href="corporate">Corporate</a></li>
+        <li><a href="delivery">Delivery & Services</a></li>
+        <li><a href="contact">Contact Us</a></li>
+        <li><a href="faq">FAQ</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="home">
+      <h2>Welcome to Our Flower Shop</h2>
+      <p>At our flower shop, we believe in the language of flowers. Each petal, color, and fragrance speaks volumes, conveying emotions and celebrating special moments. Explore our diverse collection of flowers, arrangements, and gifts designed to add a touch of nature's beauty to your life.</p>
+
+      <div class="highlight">
+        <img src="pic/highlight.avif" alt="Shop Highlight">
+        <p>Discover the perfect flowers for every occasion, from birthdays to weddings, and express your sentiments with the freshness and elegance only flowers can provide.</p>
+      </div>
+
+      <p>Our team of passionate florists is dedicated to creating stunning arrangements that captivate the senses. Whether you're looking for a single stem or an elaborate bouquet, we have something for everyone.</p>
+
+      <p>Thank you for choosing our flower shop. We look forward to being a part of your most cherished moments.</p>
+    </section>
+  </main>
+</body>
+</html>

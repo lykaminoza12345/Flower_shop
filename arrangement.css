@@ -1,0 +1,36 @@
+/* Arrangements Section Styles */
+#arrangements {
+    background-color: #d8a28c;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  #arrangements h2 {
+    color: #333;
+    margin-top: 15px;
+  }
+  
+  #arrangements p {
+    margin-bottom: 20px;
+  }
+  
+  .arrangement-item {
+    margin-bottom: 30px;
+  }
+  
+  .arrangement-item img {
+    width: 20%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .arrangement-item h3 {
+    color: #0066cc;
+    margin-top: 10px;
+  }
+  
+  .arrangement-item p {
+    margin-top: 5px;
+  }

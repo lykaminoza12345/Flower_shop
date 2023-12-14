@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flower Shop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="pic/logo.png" alt="Flower Shop Logo">
+    <nav>
+      <ul>
+        <li><a href="home">HOME</a></li>
+        <li><a href="flowers">Flowers</a></li>
+        <li><a href="arrangements">Arrangements</a></li>
+        <li><a href="gifts">Gifts</a></li>
+        <li><a href="occasions">Occasions</a></li>
+        <li><a href="weddings">Weddings</a></li>
+        <li><a href="corporate">Corporate</a></li>
+        <li><a href="delivery">Delivery & Services</a></li>
+        <li><a href="contact">Contact Us</a></li>
+        <li><a href="faq">FAQ</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="occasions">
+      <h2>Special Occasions</h2>
+      <p>Discover our collection of flowers perfect for every special occasion. Whether it's a birthday, anniversary, or a simple gesture of love, our floral arrangements are crafted to add beauty to your moments.</p>
+
+      <div class="occasion-item">
+        <img src="pic/birthday.png" alt="Birthday Flowers">
+        <h3>Birthday Celebrations</h3>
+        <p>Send a burst of color and joy with our vibrant birthday flowers. Choose from a variety of bouquets that make the perfect birthday gift.</p>
+      </div>
+
+      <div class="occasion-item">
+        <img src="pic/anniversary.png" alt="Anniversary Flowers">
+        <h3>Anniversary Love</h3>
+        <p>Celebrate your love and commitment with our romantic anniversary flowers. Elegant bouquets and arrangements to express your lasting affection.</p>
+      </div>
+
+      <div class="occasion-item">
+        <img src="pic/getwellsoon.png" alt="Get Well Soon Flowers">
+        <h3>Get Well Soon Wishes</h3>
+        <p>Send healing thoughts and well wishes with our comforting get-well-soon flowers. A beautiful way to brighten someone's day during recovery.</p>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flower Shop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="pic/logo.png" alt="Flower Shop Logo">
+    <nav>
+      <ul>
+        <li><a href="home">HOME</a></li>
+        <li><a href="flowers">Flowers</a></li>
+        <li><a href="arrangements">Arrangements</a></li>
+        <li><a href="gifts">Gifts</a></li>
+        <li><a href="occasions">Occasions</a></li>
+        <li><a href="weddings">Weddings</a></li>
+        <li><a href="corporate">Corporate</a></li>
+        <li><a href="delivery">Delivery & Services</a></li>
+        <li><a href="contact">Contact Us</a></li>
+        <li><a href="faq">FAQ</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="weddings">
+      <h2>Weddings</h2>
+      <p>Celebrate your special day with the beauty of fresh flowers. Our expert florists can create stunning arrangements that complement the elegance of your wedding.</p>
+
+      <h3>Our Wedding Services Include:</h3>
+      <ul>
+        <li>Custom Bridal Bouquets</li>
+        <li>Bridesmaid Bouquets</li>
+        <li>Groom and Groomsmen Boutonnieres</li>
+        <li>Table Centerpieces</li>
+        <li>Decorative Flower Arches</li>
+      </ul>
+
+      <h3>Personalized Consultations:</h3>
+      <p>Book a consultation with our floral designers to discuss your wedding theme, color palette, and preferences. We'll work closely with you to create floral arrangements that perfectly reflect your style.</p>
+
+      <div class="wedding-gallery">
+        <img src="pic/wedding.png" alt="Wedding Flowers 1">
+        <img src="pic/wedding1.png" alt="Wedding Flowers 2">
+        <img src="pic/wedding2.png" alt="Wedding Flowers 3">
+      </div>
+    </section>
+  </main>
+</body>
+</html>

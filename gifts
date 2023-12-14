@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flower Shop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="pic/logo.png" alt="Flower Shop Logo">
+    <nav>
+      <ul>
+        <li><a href="home">HOME</a></li>
+        <li><a href="flowers">Flowers</a></li>
+        <li><a href="arrangements">Arrangements</a></li>
+        <li><a href="gifts">Gifts</a></li>
+        <li><a href="occasions">Occasions</a></li>
+        <li><a href="weddings">Weddings</a></li>
+        <li><a href="corporate">Corporate</a></li>
+        <li><a href="delivery">Delivery & Services</a></li>
+        <li><a href="contact">Contact Us</a></li>
+        <li><a href="faq">FAQ</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="gifts">
+      <h2>Flower Gifts for Every Occasion</h2>
+      <p>Explore our curated collection of flower gifts, perfect for expressing love, appreciation, and joy. From birthdays to anniversaries, our flower gifts make every moment special.</p>
+
+      <div class="gift-item">
+        <img src="pic/bouquet.png" alt="Bouquet Gift">
+        <h3>Classic Bouquet</h3>
+        <p>A timeless gift of fresh flowers beautifully arranged in a classic bouquet. Perfect for birthdays, anniversaries, or just to say "I love you."</p>
+      </div>
+
+      <div class="gift-item">
+        <img src="pic/rose-box.png" alt="Rose Box">
+        <h3>Elegant Rose Box</h3>
+        <p>Send a message of elegance and romance with our exquisite rose box. An ideal gift for special occasions like anniversaries or engagements.</p>
+      </div>
+
+      <div class="gift-item">
+        <img src="pic/succulent.png" alt="Succulent Gift">
+        <h3>Succulent Arrangement</h3>
+        <p>For the plant lover, our succulent arrangement is a unique and long-lasting gift. Perfect for housewarmings, graduations, or any celebration.</p>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

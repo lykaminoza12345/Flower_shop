@@ -1,0 +1,35 @@
+#gifts {
+    background-color: #d8a28c;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  #gifts h2 {
+    color: #333;
+    margin-top: 15px;
+  }
+  
+  #gifts p {
+    margin-bottom: 20px;
+  }
+  
+  .gift-item {
+    margin-bottom: 30px;
+  }
+  
+  .gift-item img {
+    width: 30%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .gift-item h3 {
+    color: #0066cc;
+    margin-top: 10px;
+  }
+  
+  .gift-item p {
+    margin-top: 5px;
+  }

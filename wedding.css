@@ -1,0 +1,39 @@
+#weddings {
+    background-color: #d8a28c;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  #weddings h3 {
+    color: #ffcc00;
+    text-shadow: 2px 2px 5px #000;
+    margin-top: 15px;
+  }
+  
+  #weddings ul {
+    list-style: none;
+    margin-left: 20px;
+  }
+  
+  #weddings li {
+    margin-bottom: 8px;
+  }
+  
+  #weddings p {
+    margin-bottom: 15px;
+  }
+  
+  /* Wedding Gallery Styles */
+  .wedding-gallery {
+    margin-top: 20px;
+  }
+  
+  .wedding-gallery img {
+    width: 30%;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flower Shop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="pic/logo.png" alt="Flower Shop Logo">
+    <nav>
+      <ul>
+        <li><a href="home">HOME</a></li>
+        <li><a href="flowers">Flowers</a></li>
+        <li><a href="arrangements">Arrangements</a></li>
+        <li><a href="gifts">Gifts</a></li>
+        <li><a href="occasions">Occasions</a></li>
+        <li><a href="weddings">Weddings</a></li>
+        <li><a href="corporate">Corporate</a></li>
+        <li><a href="delivery">Delivery & Services</a></li>
+        <li><a href="contact">Contact Us</a></li>
+        <li><a href="faq">FAQ</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="flowers">
+      <h2>Explore Our Beautiful Flowers</h2>
+      <p>Discover a wide variety of fresh and vibrant flowers that add beauty and fragrance to any occasion. Our expertly crafted bouquets and individual stems are perfect for expressing your emotions and celebrating special moments.</p>
+
+      <div class="flower-item">
+        <img src="pic/roses.png" alt="Roses">
+        <h3>Roses</h3>
+        <p>Roses are the timeless symbol of love and romance. Choose from a spectrum of colors to convey your feelings on any occasion.</p>
+      </div>
+
+      <div class="flower-item">
+        <img src="pic/lilies.png" alt="Lilies">
+        <h3>Lilies</h3>
+        <p>Lilies are elegant and graceful flowers that symbolize purity and renewal. Perfect for weddings and celebrations.</p>
+      </div>
+
+      <div class="flower-item">
+        <img src="pic/tulips.png" alt="Tulips">
+        <h3>Tulips</h3>
+        <p>Tulips bring a touch of spring to any setting. Their vibrant colors make them a cheerful choice for birthdays and get-well occasions.</p>
+      </div>
+
+      <div class="flower-item">
+        <img src="pic/sunflower.png" alt="Sunflowers">
+        <h3>Sunflowers</h3>
+        <p>Sunflowers are bold and cheerful, representing warmth and positivity. A great choice for expressing joy and gratitude.</p>
+      </div>
+
+      <!-- Add more flower items as needed -->
+    </section>
+  </main>
+</body>
+</html>

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flower Shop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="pic/logo.png" alt="Flower Shop Logo">
+    <nav>
+      <ul>
+        <li><a href="home">HOME</a></li>
+        <li><a href="flowers">Flowers</a></li>
+        <li><a href="arrangements">Arrangements</a></li>
+        <li><a href="gifts">Gifts</a></li>
+        <li><a href="occasions">Occasions</a></li>
+        <li><a href="weddings">Weddings</a></li>
+        <li><a href="corporate">Corporate</a></li>
+        <li><a href="delivery">Delivery & Services</a></li>
+        <li><a href="contact">Contact Us</a></li>
+        <li><a href="faq">FAQ</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="arrangements">
+      <h2>Flower Arrangements for Every Style</h2>
+      <p>Explore our stunning collection of floral arrangements crafted to suit various styles and occasions. Each arrangement is meticulously designed to bring beauty and elegance to your space.</p>
+
+      <div class="arrangement-item">
+        <img src="pic/classic.png" alt="Classic Arrangement">
+        <h3>Classic Elegance</h3>
+        <p>Timeless and sophisticated, our classic flower arrangement adds an elegant touch to any setting. Perfect for formal events or as a centerpiece in your home.</p>
+      </div>
+
+      <div class="arrangement-item">
+        <img src="pic/modern.png" alt="Modern Arrangement">
+        <h3>Modern Chic</h3>
+        <p>For those with a contemporary taste, our modern chic arrangement features bold blooms and sleek design. Ideal for modern interiors and fashion-forward individuals.</p>
+      </div>
+
+      <div class="arrangement-item">
+        <img src="pic/whimsical.png" alt="Whimsical Arrangement">
+        <h3>Whimsical Delight</h3>
+        <p>Bring a touch of whimsy to any celebration with our whimsical flower arrangement. Playful colors and unique flower choices make it a delightful choice for birthdays or joyful occasions.</p>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

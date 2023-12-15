@@ -1,0 +1,26 @@
+/* FAQ Section Styles */
+#faq {
+  background-color:#d8a28c;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#faq h2 {
+  color: #ffcc00;
+  text-shadow: 2px 2px 5px #000;
+  margin-top: 15px;
+}
+
+.faq-item {
+  margin-bottom: 20px;
+}
+
+.faq-item h3 {
+  color: #0066cc;
+  margin-top: 10px;
+}
+
+.faq-item p {
+  margin-top: 5px;
+}

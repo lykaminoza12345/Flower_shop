@@ -1,0 +1,63 @@
+/* Contact Us Section Styles */
+#contact {
+    background-color: #d8a28c;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  #contact h3 {
+    color: #ffcc00;
+    text-shadow: 2px 2px 5px #000;
+    margin-top: 15px;
+  }
+  
+  #contact p {
+    margin-bottom: 15px;
+  }
+  
+  .contact-details {
+    margin-bottom: 20px;
+  }
+  
+  .contact-details p {
+    margin-bottom: 10px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-top: 10px;
+  }
+  
+  input,
+  textarea {
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+
+
+  
+
+  
+  
+  

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flower Shop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="pic/logo.png" alt="Flower Shop Logo">
+    <nav>
+      <ul>
+        <li><a href="home">HOME</a></li>
+        <li><a href="flowers">Flowers</a></li>
+        <li><a href="arrangements">Arrangements</a></li>
+        <li><a href="gifts">Gifts</a></li>
+        <li><a href="occasions">Occasions</a></li>
+        <li><a href="weddings">Weddings</a></li>
+        <li><a href="corporate">Corporate</a></li>
+        <li><a href="delivery">Delivery & Services</a></li>
+        <li><a href="contact">Contact Us</a></li>
+        <li><a href="faq">FAQ</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="faq">
+      <h2>Frequently Asked Questions (FAQ)</h2>
+
+      <div class="faq-item">
+        <h3>1. How can I place an order?</h3>
+        <p>To place an order, simply browse our website, choose the desired items, and proceed to the checkout. Follow the instructions to complete your purchase.</p>
+      </div>
+
+      <div class="faq-item">
+        <h3>2. What payment methods do you accept?</h3>
+        <p>We accept various payment methods, including credit cards (Visa, MasterCard, American Express), PayPal, and more. You can see the available options during the checkout process.</p>
+      </div>
+
+      <div class="faq-item">
+        <h3>3. Can I customize my floral arrangement?</h3>
+        <p>Yes, we offer customization options. Contact our customer service to discuss your preferences, and we'll do our best to create a personalized arrangement for you.</p>
+      </div>
+
+      <div class="faq-item">
+        <h3>4. What is your return policy?</h3>
+        <p>We have a flexible return policy. If you are not satisfied with your purchase, please contact us within 7 days, and we will assist you with the return process.</p>
+      </div>
+
+      <div class="faq-item">
+        <h3>5. How does the delivery process work?</h3>
+        <p>We offer standard, express, and international delivery options. The delivery time and cost depend on your location and the selected delivery method. You can choose your preferred option during checkout.</p>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

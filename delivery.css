@@ -1,0 +1,40 @@
+* Delivery & Services Section Styles */
+#delivery-services {
+    background-color: #d8a28c;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  #delivery-services h3 {
+    color: #ffcc00;
+    text-shadow: 2px 2px 5px #000;
+    margin-top: 15px;
+  }
+  
+  #delivery-services ul {
+    list-style: none;
+    margin-left: 20px;
+  }
+  
+  #delivery-services li {
+    margin-bottom: 8px;
+  }
+  
+  #delivery-services strong {
+    color: #555;
+  }
+  
+  #delivery-services p {
+    margin-bottom: 15px;
+  }
+  
+  #delivery-services a {
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  #delivery-services a:hover {
+    text-decoration: underline;
+  }
